@@ -1,0 +1,19 @@
+[Main]
+This site is to provide a platform for users to search related stock information. Also, later on, user can communicate with each other, like twitter.
+
+[Tools]
+NodeJS to provide a basic HTTP server, combinding with JQuery, Coffee-script, high-charts, etc...
+We need a database to save user information...MySQL?
+We need a mail sending service to notify customer, we might use Sohu sendmail service at first.
+For DNS, I will use DNSpod.
+Now the project has a FQDN, www.taojkr.cc, a great start!
+The project will be hold in github...
+
+[Environment prepare]
+1. Prepare install nodejs
+2. Install Mongodb (Done)
+
+
+[Steps]
+1. Need to be able to register new user...
+
